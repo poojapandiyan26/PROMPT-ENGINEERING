@@ -7,7 +7,10 @@ Develop a comprehensive report for the following exercises:
 
 ## What is Generative AI?
 
-<img width="1100" height="550" alt="image" src="https://github.com/user-attachments/assets/97227420-8597-4dcf-a126-862dcf123558" />
+<img width="1100" height="550" alt="image" src="https://github.com/user-attachments/assets/97227420-8597-4dcf-a126-862dcf123558" /> 
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/29e87ed7-2cd7-4133-821e-5883fb286bb6" />
+
 
 Generative AI refers to artificial intelligence systems capable of creating new content such as text, images, audio, and video.
 These models are trained on vast datasets and learn to identify patterns, structures, and relationships within the data.
@@ -71,6 +74,56 @@ Similar to the T5 model for text, CodeT5 is a versatile model for programming ta
 Developed by DeepMind, AlphaCode is an AI designed to tackle competitive programming challenges. It can understand complex problem descriptions and then write its own clever, working solutions from scratch, performing at a level that rivals skilled human programmers.
 
 ![image](https://github.com/user-attachments/assets/1d9ab721-c67e-43f8-89d2-71def21254e2)
+
+
+To recreate or iterate on the infographic above, you can use the following detailed prompt. This is designed to guide an AI image generator to maintain that clean, technical, and "dark mode" aesthetic.
+
+The Image Generation Prompt
+Prompt: A professional, high-tech infographic titled "EVOLUTION OF COMPETITIVE PROGRAMMING AI." The design features a dark blue and charcoal background with neon cyan, amber, and purple accents. The layout is divided into two main sections: "AlphaCode 1" on the left and "AlphaCode 2" on the right.
+
+Key Visual Elements:
+
+Left Side (AlphaCode 1): Illustrate a "Massive Sampling" process showing thousands of floating code snippets being funneled into a central processor (labeled H100 GPUs). Include a "Filtering" icon (a thumbs up/down symbol) and a gauge showing "Top 54% Ranking."
+
+Center: A glowing data stream connecting the two halves, with line graphs showing "Sampling Volume" vs "Computational Efficiency."
+
+Right Side (AlphaCode 2): Show a more refined, streamlined process with icons for "Advanced Math" and "Iterative Refinement." Include a gauge showing a "Top 15% Ranking."
+
+Style: Clean vector UI/UX design, futuristic dashboard aesthetic, isometric 3D icons, and clear, sans-serif typography. High resolution, 8k, cinematic lighting.
+
+Tips for Customizing the Prompt:
+If you want it simpler: Add the phrase "Simplified flow chart style" to the beginning.
+
+If you want it more artistic: Replace "Infographic" with "Futuristic concept art of an AI brain solving code puzzles."
+
+For a different color scheme: Change "Neon cyan and amber" to "Minimalist white and emerald green" or "Monochrome slate."
+
+To recreate or iterate on the infographic above, you can use the following detailed prompt. This is designed to guide an AI image generator to maintain that clean, technical, and "dark mode" aesthetic.
+
+The Image Generation Prompt
+Prompt: A professional, high-tech infographic titled "EVOLUTION OF COMPETITIVE PROGRAMMING AI." The design features a dark blue and charcoal background with neon cyan, amber, and purple accents. The layout is divided into two main sections: "AlphaCode 1" on the left and "AlphaCode 2" on the right.
+
+Key Visual Elements:
+
+Left Side (AlphaCode 1): Illustrate a "Massive Sampling" process showing thousands of floating code snippets being funneled into a central processor (labeled H100 GPUs). Include a "Filtering" icon (a thumbs up/down symbol) and a gauge showing "Top 54% Ranking."
+
+Center: A glowing data stream connecting the two halves, with line graphs showing "Sampling Volume" vs "Computational Efficiency."
+
+Right Side (AlphaCode 2): Show a more refined, streamlined process with icons for "Advanced Math" and "Iterative Refinement." Include a gauge showing a "Top 15% Ranking."
+
+Style: Clean vector UI/UX design, futuristic dashboard aesthetic, isometric 3D icons, and clear, sans-serif typography. High resolution, 8k, cinematic lighting.
+
+Tips for Customizing the Prompt:
+If you want it simpler: Add the phrase "Simplified flow chart style" to the beginning.
+
+If you want it more artistic: Replace "Infographic" with "Futuristic concept art of an AI brain solving code puzzles."
+
+For a different color scheme: Change "Neon cyan and amber" to "Minimalist white and emerald green" or "Monochrome slate."
+
+
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/11c12c6f-1636-4df5-b3e1-f9890ddae1fd" />
+
 
 
 ## Applications of Generative AI
